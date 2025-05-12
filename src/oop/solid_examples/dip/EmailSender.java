@@ -1,4 +1,4 @@
-package solid_examples.dip;
+package oop.solid_examples.dip;
 
 /**
  * 이메일 전송 구현체

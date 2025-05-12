@@ -1,4 +1,4 @@
-package solid_examples.lsp;
+package oop.solid_examples.lsp;
 
 /**
  * 날 수 있는 새를 표현하는 부모 클래스

@@ -1,4 +1,4 @@
-package solid_examples.srp;
+package oop.solid_examples.srp;
 
 /**
  * 사용자 정보를 저장하는 클래스 (데이터 책임만 가짐)

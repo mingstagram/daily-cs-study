@@ -1,4 +1,4 @@
-package solid_examples.ocp;
+package oop.solid_examples.ocp;
 
 /**
  * SMS 전송 구현체 (OCP 적용)

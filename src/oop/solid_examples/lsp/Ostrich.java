@@ -1,4 +1,4 @@
-package solid_examples.lsp;
+package oop.solid_examples.lsp;
 
 /**
  * 타조는 날 수 없지만 Bird를 상속받아 fly()를 오버라이드하면서 예외를 발생시킴
